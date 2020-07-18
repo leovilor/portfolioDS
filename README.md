@@ -8,9 +8,9 @@
 # Leonardo Vilor
 <sub>*Data Scientist*</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Data Scientist, Electrical Engineer and System Analyst. Working with consultancy in the area of property security and development of IT Projects.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Cientista de Dados, Engenheiro Eletricista e Analista de Sistemas. Trabalhando com consultoria na área de segurança patrimonial e desenvolvimento de Projetos de TI.
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
