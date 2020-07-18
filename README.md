@@ -15,8 +15,9 @@ Data Scientist, Electrical Engineer and System Analyst. Working with consultancy
 **Background in:** Python, Machine Learning, System analysis and Project development.
 
 **Links:**
-* [Blog](http://projetisistemas.com.br)
+* [Site](http://projetisistemas.com.br)
 * [LinkedIn](https://www.linkedin.com/in/leovilor)
+* [Blog](https://medium.com/@leonardovilor)
 
 ## Projetos:
 
