@@ -17,7 +17,7 @@ Data Scientist, Electrical Engineer and System Analyst. Working with consultancy
 **Links:**
 * [Site](http://projetisistemas.com.br)
 * [LinkedIn](https://www.linkedin.com/in/leovilor)
-* [Blog](https://medium.com/@leonardovilor)
+* [Medium](https://medium.com/@leonardovilor)
 
 ## Projetos:
 
