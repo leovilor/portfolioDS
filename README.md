@@ -21,6 +21,8 @@ Data Scientist, Electrical Engineer and System Analyst. Working with consultancy
 
 ## Projetos:
 
+
+
 ---
 
 
