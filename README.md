@@ -21,7 +21,7 @@ Data Scientist, Electrical Engineer and System Analyst. Working with consultancy
 
 ## Projetos:
 
-
+* [Analisando a violência no RJ](https://github.com/leovilor/portfolio_data_science/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
 
 ---
 
