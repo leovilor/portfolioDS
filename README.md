@@ -5,9 +5,6 @@
   <img src="banner_portfolioDS.png" >
 </p>
 
-# Leonardo Vilor
-<sub>*Data Scientist*</sub>
-
 Data Scientist, Electrical Engineer and System Analyst. Working with consultancy in the area of property security and development of IT Projects.
 
 *Cientista de Dados, Engenheiro Eletricista e Analista de Sistemas. Trabalhando com consultoria na área de segurança patrimonial e desenvolvimento de Projetos de TI.*
