@@ -18,6 +18,7 @@ Data Scientist, Electrical Engineer and System Analyst. Working with consultancy
 
 ## Projetos:
 
+* [Panorama do Covid 19 no Brasil e no Mundo](https://github.com/leovilor/portfolio_data_science/blob/master/Panorama_do_COVID_19_no_Brasil.ipynb)
 * [Analisando a violência no RJ](https://github.com/leovilor/portfolio_data_science/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
 * [Analisando os dados do Airbnb no Hawaii](https://github.com/leovilor/portfolio_data_science/blob/master/Analisando_os_Dados_do_Airbnb_(Hawaii).ipynb)
 ---
